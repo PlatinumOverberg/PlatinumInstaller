@@ -1,0 +1,2 @@
+# PlatinumInstaller
+Install Platinum
